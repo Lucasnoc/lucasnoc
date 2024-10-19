@@ -23,3 +23,8 @@
     <img height="120px" alt="lucasnoc" src="https://media.tenor.com/dbkEr5d13RcAAAAj/one-piece-pixel.webm">
   </div>
 </div>
+
+
+![Snake animation](https://github.com/your_username/lucasnoc/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?lucasnoc=your_username&repo=lucasnoc&theme=react)](https://github.com/lucasnoc/lucasnoc)
