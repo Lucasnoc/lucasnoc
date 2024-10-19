@@ -1,7 +1,3 @@
-![Snake animation](https://github.com/lucasnoc/lucasnoc/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lucasnoc&repo=lucasnoc&theme=react)](https://github.com/lucasnoc/lucasnoc)
-
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Lucas!;+Meu+apelido+é+Noc;" />
@@ -28,3 +24,6 @@
   </div>
 </div>
 
+![Snake animation](https://github.com/Lucasnoc/Lucasnoc/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Lucasnoc&repo=lucasnoc&theme=react)](https://github.com/Lucasnoc/Lucasnoc)
