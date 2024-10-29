@@ -3,11 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Lucas!;+Meu+apelido+é+Noc;" />
   </h1>
 
-  <div>
-    <a href="https://github.com/lucasnoc">
-      <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Lucasnoc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    </a>
-  </div>
+
 
   <h2>⚡ kaizoku ou ni ore wa naru ⚡</h2>
 
@@ -22,8 +18,6 @@
     <img height="120px" alt="lucasnoc" src="https://media.tenor.com/QNJQboOc-iQAAAAj/one-piece-pixel.webm">
     <img height="120px" alt="lucasnoc" src="https://media.tenor.com/dbkEr5d13RcAAAAj/one-piece-pixel.webm">
   </div>
-</div>
+
 
 ![Snake animation](https://github.com/Lucasnoc/Lucasnoc/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Lucasnoc&repo=lucasnoc&theme=react)](https://github.com/Lucasnoc/Lucasnoc)
