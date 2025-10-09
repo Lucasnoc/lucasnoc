@@ -5,7 +5,7 @@
 
   <h2>Hello World 👋</h2>
 <p align="left">
-Eu sou um profissional de Tecnologia da Informação apaixonado por desenvolver soluções estratégicas e inovadoras. Tenho experiência em infraestrutura, desenvolvimento de software, gestão e atualmente sou um Product Owner, garantindo que as soluções estejam alinhadas aos objetivos do negócio e gerem impacto real. Gosto de conectar tecnologia e negócios, impulsionando equipes, priorizando demandas e entregando produtos de alto valor com eficiência e segurança. Além disso, sou um entusiasta de Inteligência Artificial, sempre explorando como a IA pode potencializar processos, produtos e tomadas de decisão.
+Sou profissional de TI apaixonado por criar soluções estratégicas e inovadoras. Atuo com infraestrutura, desenvolvimento e como Product Owner, garantindo que os projetos entreguem valor real e estejam alinhados aos objetivos do negócio. Conecto tecnologia e negócios, impulsiono equipes e priorizo demandas para produtos de alto impacto. Também sou entusiasta de Inteligência Artificial :)
 </p>
 <br>
 
