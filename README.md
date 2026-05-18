@@ -5,7 +5,7 @@
 
   <h2>Hello World 👋</h2>
 <p align="left">
-Sou profissional de TI apaixonado por criar soluções estratégicas e inovadoras. Atuo com infraestrutura, desenvolvimento e como Product Owner, garantindo que os projetos entreguem valor real e estejam alinhados aos objetivos do negócio. Conecto tecnologia e negócios, impulsiono equipes e priorizo demandas para produtos de alto impacto. Também sou entusiasta de Inteligência Artificial :)
+Profissional com trajetória sólida em diversas frentes de TI, consolidando vivência em governança corporativa, infraestrutura, segurança da informação (LGPD) e desenvolvimento de software Full-stack (Front-End/Back-End e Mobile). Com perfil empreendedor e foco em gestão, possuo expertise comprovada na otimização de processos, gestão de incidentes e implementação de soluções tecnológicas estratégicas que unem visão técnica e de negócio. Atuo com uma mentalidade orientada a AI-first e Mobile-first, utilizando inteligência artificial e foco em usabilidade para escalar produtos digitais, gerir ecossistemas de microserviços e entregar valor contínuo através de metodologias ágeis e análise de métricas.
 </p>
 <br>
 
